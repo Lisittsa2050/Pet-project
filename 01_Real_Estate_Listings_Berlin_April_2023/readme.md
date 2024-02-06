@@ -2,7 +2,7 @@
 
 ## Данные
 Архив объявлений о продаже квартир в Берлине за апрель 2023г.
-
+Датасет взят с Kaggle: [!real_estate_listings_clean.csv][https://www.kaggle.com/datasets/mathisjander/real-estate-listings-berlin-de-april-2023/data]
 Данные взяты с сайта immowelt.de
 
 -    url — ссылка на лот аренды
