@@ -1,9 +1,9 @@
 # Анализ рынка недвижимости в Берлине
 
 ## Данные
-Архив объявлений о продаже квартир в Берлине за апрель 2023г.
-Датасет взят с Kaggle: [!real_estate_listings_clean.csv][https://www.kaggle.com/datasets/mathisjander/real-estate-listings-berlin-de-april-2023/data]
-Данные взяты с сайта immowelt.de
+Архив объявлений о продаже квартир в Берлине за апрель 2023г. Источник объявлений сайт immowelt.de
+
+Датасет взят с Kaggle: [real_estate_listings_clean.csv](https://www.kaggle.com/datasets/mathisjander/real-estate-listings-berlin-de-april-2023/data)
 
 -    url — ссылка на лот аренды
 -    energy — тип энергии в квартире
