@@ -46,4 +46,4 @@
 см. Online Retail I и Online Retail II
 
 ## Используемые библиотеки
-`numpy`, `pandas`, `matplotlib`, `seaborn`, `lifetimes`, `scipy.special`, `sklearn`
+`numpy`, `pandas`, `matplotlib`, `seaborn`, `lifetimes`, `scikit-learn`, `SciPy`
